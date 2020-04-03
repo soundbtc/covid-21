@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-<h1>Welcome to SoundBTC</h1>
+### Welcome to SoundBTC
 <p><h3>Here you'll find some basic understanding and guidance about Bitcoin and the world of Blockchain.</h3>
 <h2>What is Bitcoin?</h2>
 <p>Bitcoin is a digital currency that lives on the internet. It can be used by anyone all around the world; 24 hours a day, 7 days a week, 365 days of the year. It is a peer to peer electronic cash system and does not need a central authority to control it. Bitcoin miners that are located all around the globe validate bitcoin transactions and secure the Bitcoin network. There will only be a total of 21 million Bitcoins to ever exist. Due to the finite supply, some people see Bitcoin as a sound form of money, along with being digital gold.</p>
