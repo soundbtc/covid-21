@@ -8,9 +8,6 @@
 <h2>Whitepaper</h2>
 <p>In November of 2008, Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged the solution to the Double-Spending problem. This is where regular fiat currencies, such as the US dollar, are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain by bitcoin miners all around the world.
 </p>
-<p>
-[Click here to read the Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 </p>
 ### Markdown
 
