@@ -11,11 +11,11 @@
 <h2>Whitepaper</h2>
 [Click here to read the Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 </p>
-
+[link to Google!](http://google.com)
 ### Markdown
 ```markdown
 Syntax highlighted code block
-
+[link to Google!](http://google.com)
 # Header 1
 ## Header 2
 ### Header 3
