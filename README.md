@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
+<h1>Welcome to SoundBTC</h1>
 
+
+<p><h3>Here you'll find some basic understanding and guidance about Bitcoin and the world of Blockchain.</h3>
+</p>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
