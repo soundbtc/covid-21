@@ -18,6 +18,17 @@
 ### In November of 2008, Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged the solution to the Double-Spending problem. This is where regular fiat currencies, such as the US dollar, are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain by bitcoin miners all around the world.
 ### [link to Google!](http://google.com)
 
+## Where to get Bitcoin
+### There are a number of ways to get bitcoin. A great way to get bitcoin is to EARN bitcoin! Going through a Bitcoin exchange where you can get bitocin. Some exchanges abide by country specific AML(Anti-money laundering) rules.
+
+### [Coinbase](http://coinbase.com/join/hays_wr?src=ios-link)
+
+ KYC
+ Local P2P
+ Exchange
+  ## Storing Bitcoin
+  - Cold Storage
+  - Hot Wallets
 ```markdown
 Syntax highlighted code block
 
